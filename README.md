@@ -26,11 +26,14 @@ The purpose of this lab is to install and configure **Ubuntu Server** on a **VMw
 ## ⚙️ Steps Performed
 
 ### 1. VMware Setup
-- Opened **VMware Workstation** on the system.  
-- Created a **new virtual machine (VM)**.  
-- Selected the **Ubuntu Server ISO** file for installation.  
-- Allocated appropriate **disk space, memory, and CPU** resources to the VM.  
-- *(Refer to Figure 1: VMware New Virtual Machine Wizard)*
+- Opened **VMware Workstation** on the system.
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/dcdd35f1-cd81-4eab-8add-d56e479d41ce" />
+- Created a **new virtual machine (VM)**.
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/b31cdb0b-baf1-4c1b-a1f3-ee83f0a203c0" />
+- Selected the **Ubuntu Server ISO** file for installation.
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/194b892a-bf8d-442f-afe6-31088a0590bb" />
+- Allocated appropriate **disk space, memory, and CPU** resources to the VM.
+  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/fc7e0d3f-e61a-411f-b4f7-d60275722956" />
 
 ### 2. Ubuntu Server Installation
 - Booted the virtual machine using the provided ISO.  
@@ -75,12 +78,7 @@ By the end of this lab, the student learned to:
 1. [Ubuntu Official Installation Guide](https://ubuntu.com/server/docs/installation)
 2. [VMware Workstation Documentation](https://www.vmware.com/support/ws5/doc/)
 3. Fatima Jinnah Women University – Cloud Computing Lab Manual (Instructor Notes)
-4. Screenshot References:
-   - Figure 1: VMware Setup Interface (Captured by *Tehreem Khan*, 2025)
-   - Figure 2: Ubuntu Installation Wizard (Captured by *Tehreem Khan*, 2025)
-   - Figure 3: Ubuntu Login Prompt (Captured by *Tehreem Khan*, 2025)
-   - Figure 4: IP Address Command Output (Captured by *Tehreem Khan*, 2025)
-   - Figure 5: Login Successful Screen (Captured by *Tehreem Khan*, 2025)
+
 
 ---
 
