@@ -1,2 +1,2 @@
 This Line was added Remotely from github
-This Line is added locally
+This Line is added locally.
