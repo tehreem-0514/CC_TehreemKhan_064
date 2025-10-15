@@ -2,3 +2,6 @@ This Line was added Remotely from github.
 This Line was added locally.
 This is a new Remote line for rebase test.
 Remotely added for task 1 
+This is a new remote line for rebase test.
+This is a new local line for rebase test.
+
