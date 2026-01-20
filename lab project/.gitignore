@@ -1,0 +1,28 @@
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+*.tfstate.backup
+
+# Keys and secrets
+*.pem
+*.key
+*.pub
+lab-key
+lab-key.pub
+
+# AWS & CLI
+.aws/
+awscliv2.zip
+
+# Ansible
+*.retry
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
