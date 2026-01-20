@@ -3,3 +3,26 @@ lab3ignore/
 # AWS CLI
 awscliv2.zip
 aws/
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.*
+*.tfstate
+*.tfstate.backup
+terraform.tfvars
+
+# AWS CLI
+awscliv2.zip
+aws/
+
+# SSH / keys
+*.pem
+*.key
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
