@@ -1,2 +1,5 @@
 
 lab3ignore/
+# AWS CLI
+awscliv2.zip
+aws/
