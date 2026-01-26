@@ -1,16 +1,14 @@
 # Terraform
 .terraform/
+.terraform.lock.hcl
 terraform.tfstate
-terraform.tfstate.*
+terraform.tfstate.backup
 terraform.tfvars
 
 # AWS
 aws/
 awscliv2.zip
 
-# Keys
+# SSH keys
 serverkey
 serverkey.pub
-*.pem
-*.key
-
